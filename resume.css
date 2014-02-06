@@ -11,5 +11,13 @@ body {
 
 #ful, #edu, #rel, #pro, #ski, #act {
 	font-weight: bold;
-	color: red;
+	font-size: 20px;
+}
+
+p {
+	color: black;
+}
+
+h1 {
+	font-size: 10px:;
 }
