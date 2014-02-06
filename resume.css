@@ -9,7 +9,7 @@ body {
 	font-size: 18px;
 }
 
-#rel {
+#ful, #edu, #rel, #pro, #ski, #act {
 	font-weight: bold;
 	color: red;
 }
