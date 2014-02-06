@@ -8,6 +8,9 @@ body {
 	color: red;
 }
 
+img {
+	border: 0;
+}
 
 #resume {
 	font-size: 20px;
