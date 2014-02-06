@@ -1,8 +1,15 @@
 h1 {
 	color: red;
+	text-transform: capitalize;
+	text-align: center;
 }
 
 body {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 18px;
+}
+
+#rel {
+	font-weight: bold;
+	color: red;
 }
